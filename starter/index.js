@@ -19,9 +19,11 @@ let team = [];
 startProgram()
 async function startProgram(){
 
-    team.push(new Employee("vida", 1, "test@test.com"))
+    team.push(new Engineer("vida", 1, "test@test.com",))
+    
 
     let htmlDoc = render(team)
 
     await fs.writeFile(outputPath, htmlDoc);
+
 }
