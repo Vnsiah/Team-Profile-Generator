@@ -42,7 +42,13 @@ npm run test
 
 ## Usage
 
+Below is video walking you through how to get the enployess.
+
 https://drive.google.com/file/d/1GMN_Dlh18Xhf1j_J21Rcnlp0gJG17uVH/view
+
+Below is the final scrrenshot of the empliyesss
+
+<img width="1375" alt="Screenshot 2023-02-27 at 19 00 14" src="https://user-images.githubusercontent.com/117393835/221657800-52e3e421-a225-4990-a34f-31a840090340.png">
 
 ## Contribution
 
