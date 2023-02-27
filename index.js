@@ -262,6 +262,6 @@ async function startProgram() {
 
 }
 
-// questions();
+
 
 
