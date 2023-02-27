@@ -46,6 +46,8 @@ https://drive.google.com/file/d/1GMN_Dlh18Xhf1j_J21Rcnlp0gJG17uVH/view
 
 ## Contribution
 
+If you want to contribute, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 Scott Nelson
 
 ## Tests
@@ -55,6 +57,7 @@ Testing can be achieve with jest, which contains testing for all four Classes: E
 
 ## License
 
+licensed under the none license.
 
 
 
